@@ -13,7 +13,7 @@
 1. Crear el Modelo Relacional de la base de datos del sistema. DONE
 1. Identificar los tipos de dato de los atributos de las entidades el sistema. DONE
 1. Identificar los atributos que puedan ser únicos en el sistema. DONE
-1. Identificar las reglas de negocio (Operaciones CRUD) del sistema. 
+1. Identificar las reglas de negocio (Operaciones CRUD) del sistema. DONE
 
 ## Glosario
 

@@ -35,11 +35,11 @@
 
 ### Modelo Entidad - Relacion
 
-![Modelo Entidad - Relacion](./CarrerasModeloE-R.png)
+![Modelo Entidad - Relacion](./Carreras_ModeloE-R.png)
 
 ### Modelo Relacional de la DB
 
-![Modelo Relacional de la DB](./CarrerasModeloRelacionalBD.png)
+![Modelo Relacional de la DB](./Carreras_ModeloRelacionalBD.png)
 
 ## Reglas de Negocio
 
@@ -51,8 +51,9 @@
 1. Actualizar los datos de una carrera, dada una condicion en partiular.
 1. Eliminar los datos de una carrera, dada una condicion en partiular.
 
-### tipo_carrera
+### tipos_carreras
 
+1. Todos los valores del atributo distancia, deberan estar expresados en _km_ y no se podran repetir.
 1. Crear el registro un tipo carrera.
 1. Leer el registro de un(os) tipo(s) de carrera, dada una condicion en partiular.
 1. Leer todos los registros de la entidad tipos de carreras.
