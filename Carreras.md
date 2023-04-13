@@ -34,7 +34,35 @@
 ## Diagramas
 
 ### Modelo Entidad - Relacion
-![Modelo Entidad - Relacion] (./CarrerasModeloE-R.png)
+
+![Modelo Entidad - Relacion](./CarrerasModeloE-R.png)
 
 ### Modelo Relacional de la DB
-![Modelo Relacional de la DB] (./CarrerasModeloRelacionalBD.png)
+
+![Modelo Relacional de la DB](./CarrerasModeloRelacionalBD.png)
+
+## Reglas de Negocio
+
+### carreras
+
+1. Crear el registro una carrera.
+1. Leer el registro de una(s) carrera(s), dada una condicion en partiular.
+1. Leer todos los registros de la entidad carreras.
+1. Actualizar los datos de una carrera, dada una condicion en partiular.
+1. Eliminar los datos de una carrera, dada una condicion en partiular.
+
+### tipo_carrera
+
+1. Crear el registro un tipo carrera.
+1. Leer el registro de un(os) tipo(s) de carrera, dada una condicion en partiular.
+1. Leer todos los registros de la entidad tipos de carreras.
+1. Actualizar los datos de un tipo de carrera, dada una condicion en partiular.
+1. Eliminar los datos de un tipo de carrera, dada una condicion en partiular.
+
+### paises
+
+1. Crear el registro un pais.
+1. Leer el registro de un(os) pais(es), dada una condicion en partiular.
+1. Leer todos los registros de la entidad paises.
+1. Actualizar los datos de un pais, dada una condicion en partiular.
+1. Eliminar los datos de un pais, dada una condicion en partiular.
