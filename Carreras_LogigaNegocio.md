@@ -28,8 +28,8 @@
 
 ## Relaciones
 
-1. Una **carrera** _pertenece_ a un **tipo de carrera** (_1 a 1_)
-1. Una **carrera** se _corre_ en un **pais** (_1 a 1_)
+1. Una **carrera** _pertenece_ a un **tipo de carrera** (_1 a M_)
+1. Una **carrera** se _corre_ en un **pais** (_1 a M_)
 
 ## Diagramas
 
